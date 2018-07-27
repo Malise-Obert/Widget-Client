@@ -21,3 +21,5 @@ $ php -S localhost:8000
 
 ### Please note that the app will require php 7.2.0. and to test it the API Service must be run first since this app depends on it to consume the service.
 
+The API Service can be cloned from here (https://github.com/Malise-Obert/API-Service.git)
+
