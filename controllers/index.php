@@ -2,6 +2,8 @@
 
 namespace controllers;
 
+//todo Refactor api requests to use the currently dump CallAPI class...
+
 $stream = [
     'http'=>[
         'method'=>"GET",
